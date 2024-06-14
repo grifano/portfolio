@@ -1,18 +1,18 @@
 {
-  "name": "Grifano Portfolio - Clients",
+  "name": "Grifano Portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/portfolio-clients/",
+    "build": "vite build --base=/portfolio/",
     "preview": "vite preview"
   },
   "devDependencies": {
     "glob": "^8.1.0",
     "vite": "^4.5.2"
   },
-  "author": "Serhii Orlenko <sorlenko@grifano.com>",
+  "author": "Serhii Orlenko <contact@grifano.com>",
   "license": "ISC",
   "dependencies": {
     "modern-normalize": "^2.0.0",
